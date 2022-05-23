@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["749571525342134272"],
+        "ACTIVITY_TEXT": "Oyunum Crash yedi zaten",
+        "GUILD_ID": "932245168696983692",
+        "VOICE_CHANNEL": "972280303014006804",
+        "MIN_STAFF_ROLE": "932259873016659998"
+    },
+    "FILES": {
+        "WELCOME": "ses/hosgeldin.mp3",
+        "STAFF": "ses/yetkili.mp3"
+    },
+    "TOKEN": "OTc4MzY5NjAwODAwNTc1NDg5.GCNqXq.T5rXGTXO5ltz2VTMUgqWiC8gi-S158n29AH6Q0"
+} 
